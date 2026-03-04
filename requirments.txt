@@ -1,0 +1,5 @@
+These are the rquired programs needed to run this project
+tourch
+visiontourch
+opencv-python
+
