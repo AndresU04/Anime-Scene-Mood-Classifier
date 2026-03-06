@@ -1,5 +1,10 @@
-These are the rquired programs needed to run this project
-tourch
-visiontourch
+Programes used to run this project
+torch
+torchvision
 opencv-python
-
+fastapi
+uvicorn
+pandas
+matplotlib
+seaborn
+python-multipart
