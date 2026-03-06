@@ -1,4 +1,3 @@
-Programes used to run this project
 torch
 torchvision
 opencv-python

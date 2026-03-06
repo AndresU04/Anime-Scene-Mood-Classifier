@@ -1,0 +1,8 @@
+data/raw/
+data/processed/
+models/checkpoints/
+*.pt
+*.mp4
+*.avi
+.DS_Store
+**/.DS_Store
